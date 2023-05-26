@@ -1,6 +1,9 @@
-# news_getx
+# News GetX
 
 Clean code news app with getx
+
+## Applied Clean Code Architecture
+1. [Clean code concept by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ## Getting Started
 
